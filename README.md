@@ -244,5 +244,11 @@ El reporte se generará en la carpeta `TestResults/`.
 - Utiliza Swagger para explorar y probar la API de forma interactiva en desarrollo.
 
 ---
+## Licencia
+
+Este repositorio es solo para consulta y referencia. Todos los derechos reservados © Rudy Antonio Salas Víquez, 2025.  
+No está permitido copiar, modificar, distribuir ni utilizar el código sin autorización expresa del autor.
+
+---
 
 **Desarrollado con .NET 8 y Visual Studio 2022**
